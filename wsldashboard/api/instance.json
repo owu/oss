@@ -19,6 +19,6 @@
     },
     "distro-start-script": {
         "name": "Distro start script",
-        "url": "https://docs.wslui.com/guide/startup-script.html"
+        "url": "https://docs.wslui.com/guide/startup-script"
     }
 }
