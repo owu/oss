@@ -1,1 +1,17 @@
-{"latest":"0.7.1","official-group":[{"system-language":"zh-CN","timezone":"UTC+08:00","name":"WeChat","pic":"https://cdn1.wslui.com/static/images/group/group-wechat.png?t=20260428"},{"system-language":"","timezone":"","name":"Telegram","pic":"https://cdn1.wslui.com/static/images/group/group-telegram.png?t=2026"}]}
+{
+    "latest": "0.7.1",
+    "official-group": [
+        {
+            "system-language": "zh-CN",
+            "timezone": "UTC+08:00",
+            "name": "WeChat",
+            "pic": "https://cdn1.wslui.com/static/images/group/group-wechat.png"
+        },
+        {
+            "system-language": "",
+            "timezone": "",
+            "name": "Telegram",
+            "pic": "https://cdn1.wslui.com/static/images/group/group-telegram.png"
+        }
+    ]
+}
